@@ -1,0 +1,6 @@
+{
+    "server" : "imap.gmail.com",
+    "port" : 993,
+    "user" : "ishitaku5522",
+    "passwdcmd" : "openssl rsautl -decrypt -inkey $HOME/.ssh/id_rsa_takumail -in $HOME/takumail/encrypted.txt"
+}
