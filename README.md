@@ -1,4 +1,4 @@
 # takumail
-## Target: python cui email client
+## Target: python email client
 
 Still super unfinished
